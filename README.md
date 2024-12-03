@@ -1,4 +1,4 @@
-# Photoshop-2024
+# Adobe Premiere
 ## Tutorial! Leia tudo com atenção
 
 **1 Extraia o arquivo**
